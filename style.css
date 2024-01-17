@@ -7,6 +7,15 @@ html{
     font-family: PokemonFont;
 }
 
+body{
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-size: 25px;
+}
+
 #Number{
     display: block;
     text-align: center;
